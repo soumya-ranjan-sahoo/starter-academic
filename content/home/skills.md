@@ -21,8 +21,8 @@ subtitle = ""
   description = "80%"
   
  [[feature]]
-  icon = "neural_net"
-  icon_pack = "custom"
+  icon = "chart-network"
+  icon_pack = "fas"
   name = "Machine Learning"
   description = "85%"  
   
