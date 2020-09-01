@@ -20,6 +20,12 @@ subtitle = ""
   name = "Python"
   description = "80%"
   
+ [[feature]]
+  icon = "neural_net"
+  icon_pack = "custom"
+  name = "Machine Learning"
+  description = "85%"  
+  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
