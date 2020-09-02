@@ -28,7 +28,8 @@ date_format = "Jan 2006"
   description = """ Research student working in the topics of fairness in generative models, with a particular focus on variational autoencoders.
    * Worked on estimating, quantifying and mitigating bias in variational generative models.
    * Additionally explored the potential of using such models in a range of applications: anomaly detection, adversarial example detection and defense, classifier calibration.
-   * Designed a system based on variational autoencoders to generate counterfactual data for fairness scenarios under minimal causal assumptions
+   * Designed a system based on variational autoencoders to generate counterfactual data for fairness scenarios under minimal causal assumptions.
+   * Supervisors: Prof. Krishna Gummadi, Prof. Isabel Valera
    """
 
 [[experience]]
@@ -51,9 +52,10 @@ date_format = "Jan 2006"
   location = "Saarbrücken, DE"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
-  description = """ Supervised by Prof. Dietrich Klakow. Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. Responsibilities. 
+  description = """ Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. 
    * Data collection and cleaning through web crawling and multi-sentence alignment for multilingual NLP experiments. 
    * Worked on developing the web-based application of the linguistic experiment to assist in user studies.
+   * Supervisor: Prof. Dietrich Klakow
   """
   
 [[experience]]
