@@ -21,7 +21,7 @@ subtitle = ""
   description = "80%"
   
  [[feature]]
-  icon = "chart-network"
+  icon = "cogs"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "85%"  
