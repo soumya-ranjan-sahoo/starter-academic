@@ -29,7 +29,7 @@ date_format = "Jan 2006"
    * Worked on estimating, quantifying and mitigating bias in variational generative models.
    * Additionally explored the potential of using such models in a range of applications: anomaly detection, adversarial example detection and defense, classifier calibration.
    * Designed a system based on variational autoencoders to generate counterfactual data for fairness scenarios under minimal causal assumptions.
-   * Supervisors: Prof. Krishna Gummadi, Prof. Isabel Valera
+   * <b>Supervisors: Prof. Krishna Gummadi, Prof. Isabel Valera</b>
    """
 
 
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """ Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. 
    * Data collection and cleaning through web crawling and multi-sentence alignment for multilingual NLP experiments. 
    * Worked on developing the web-based application of the linguistic experiment to assist in user studies.
-   * Supervisor: Prof. Dietrich Klakow
+   * <b>Supervisor: Prof. Dietrich Klakow</b>
   """
   
 [[experience]]
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2015-06-01"
   description = """Worked on developing, optimizing and testing a novel community-based routing algorithm usingsocial metrics for message transmission in delay-tolerant networks in post-disaster scenarios.
-  * Supervisor: Prof. Tamaghna Acharya
+  * <b>Supervisor: Prof. Tamaghna Acharya</b>
   """
 
 
