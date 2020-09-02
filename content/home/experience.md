@@ -26,9 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence. 
    * Grade: 1.4 / 1.0 (German scale)
-   * Core courses: Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning 
-   * Advanced courses: Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction
-   * Seminars: Machine Learning 
+   * Core courses: 
+      * Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning 
+   * Advanced courses: 
+      * Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction
+   * Seminars: 
+     * Machine Learning 
    """
 
 [[experience]]
