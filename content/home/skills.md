@@ -32,6 +32,12 @@ subtitle = ""
   name = "Analytics"
   #description = "70%"
   
+ [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Coding"
+  #description = "70%"
+  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
