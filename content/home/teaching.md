@@ -1,5 +1,5 @@
 +++
-# Accomplishments widget.
+# Teaching widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.lsv.uni-saarland.de/"
   title = "Statistical Natural Language Processing"
   url = "https://www.lsv.uni-saarland.de/snlp19/"
-  certificate_url = ""
+  certificate_url = "https://media-exp1.licdn.com/dms/image/C4E2DAQFHVE6VI9G5ew/profile-treasury-image-shrink_1280_1280/0?e=1599141600&v=beta&t=JYTKwF--qZVvW7H67HBp4zlcU4HLBvGhLrik6kGNNLY"
   date_start = "2019-04-01"
   date_end = "2019-09-01"
   description = ""
