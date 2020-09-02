@@ -21,7 +21,7 @@ subtitle = ""
   #description = "80%"
   
  [[feature]]
-  icon = "connection"
+  icon = "neural_net"
   icon_pack = "custom"
   name = "AI/ML"
   #description = "85%"
