@@ -43,8 +43,10 @@ date_format = "Jan 2006"
   date_end = "2015-07-01"
   description = """Undergraduate student of electronics engineering.
    * Grade: 8.8 / 10
-   * Core courses: Signals and Systems, Digital Electronic and Integrated Circuits, Analog circuits,  Control System,  Digital Communications, Analog Communications, Digital Signal Processing, 
-   * Elective courses: Microprocessor and Microcontrollers, Data Structures and C, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
+   * Core courses: 
+    * Signals and Systems, Digital Electronic and Integrated Circuits, Analog circuits,  Control System,  Digital Communications, Analog Communications, Digital Signal Processing, 
+   * Elective courses: 
+    * Microprocessor and Microcontrollers, Data Structures and C, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
   """
 
 +++
