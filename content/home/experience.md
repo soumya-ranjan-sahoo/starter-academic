@@ -26,12 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence. 
    * Grade: 1.4 / 1.0 (German scale)
-   * Core courses: 
-      * Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning 
-   * Advanced courses: 
-      * Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction
-   * Seminars: 
-     * Machine Learning 
+   * Core courses: Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning 
+   * Advanced courses: Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction
+   * Seminars: Machine Learning 
    """
 [[experience]]
   title = "Graduate Assistant"
@@ -40,11 +37,9 @@ date_format = "Jan 2006"
   location = "Saarbrücken, DE"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
-  description = """ Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. 
-  * Responsibilities: 
+  description = """ Supervised by Prof. Dietrich Klakow. Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. Responsibilities: 
      * Data collection and cleaning through web crawling and multi-sentence alignment for multilingual NLP experiments. 
      * Worked on developing the web-based application of the linguistic experiment to assist in user studies.
-  * Supervision: Prof. Dietrich Klakow
   """
   
 [[experience]]
@@ -54,8 +49,7 @@ date_format = "Jan 2006"
   location = "Bengaluru, IN"
   date_start = "2015-09-01"
   date_end = "2017-07-01"
-  description = """ Worked as part of the Engineering Services Communication Products group. 
-  * Responsibilities:
+  description = """ Worked as part of the Engineering Services Communication Products group. Responsibilities:
     * Development and maintenance of the flagship Session Border Controller (SBC) for a reputed US client. 
     * Develop core functionalities of the system using the knowledge of SIP (Session Initiation Protocol) and VoIP (Voice over IP).
   """
@@ -69,10 +63,8 @@ date_format = "Jan 2006"
   date_end = "2015-07-01"
   description = """Undergraduate student of electronics engineering.
    * Grade: 8.8 / 10
-   * Core courses: 
-    * Signals and Systems, Digital Electronic and Integrated Circuits, Analog circuits,  Control System,  Digital Communications, Analog Communications, Digital Signal Processing, 
-   * Elective courses: 
-    * Microprocessor and Microcontrollers, Data Structures and C, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
+   * Core courses: Signals and Systems, Digital Electronic and Integrated Circuits, Analog circuits,  Control System,  Digital Communications, Analog Communications, Digital Signal Processing, 
+   * Elective courses: Microprocessor and Microcontrollers, Data Structures and C, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
   """
 
 +++
