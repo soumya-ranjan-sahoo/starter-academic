@@ -18,27 +18,31 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  #description = "80%"
   
  [[feature]]
-  #icon = "cogs"
-  #icon = "head-side-virus"
-  icon = "neural_net
-  icon_pack = ""custom"
+  icon = "neural_net"
+  icon_pack = "custom"
   name = "AI/ML"
-  description = "85%"  
+  #description = "85%"
+  
+ [[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Analytics"
+  #description = "70%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "65%"  
+  #description = "65%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "25%"
+  #description = "25%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
