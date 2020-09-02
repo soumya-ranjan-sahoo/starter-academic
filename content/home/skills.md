@@ -22,8 +22,9 @@ subtitle = ""
   
  [[feature]]
   #icon = "cogs"
-  icon = "head-side-virus"
-  icon_pack = "fas"
+  #icon = "head-side-virus"
+  icon = "neural_net
+  icon_pack = ""custom"
   name = "AI/ML"
   description = "85%"  
   
