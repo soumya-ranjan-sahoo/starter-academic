@@ -24,7 +24,10 @@ date_format = "Jan 2006"
   location = "Saarbrücken, DE"
   date_start = "2017-10-01"
   date_end = ""
-  description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence."""
+  description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence. 
+   * Grade: 1.4 / 1.0 (German scale)
+   * Relevant courses: Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning, Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction, Seminar: Machine Learning 
+   """
 
 [[experience]]
   title = "B.Tech. in Electronics and Communication Engineering"
@@ -33,6 +36,9 @@ date_format = "Jan 2006"
   location = "Kolkata"
   date_start = "2011-08-01"
   date_end = "2015-07-01"
-  description = """Undergraduate student of electronics engineering."""
+  description = """Undergraduate student of electronics engineering.
+   * Grade: 8.8 / 10
+   * Relevant courses: Signals and Systems, Digital Electronic and Integrated Circuits, Microprocessor and Microcontrollers, Control System, Data Structures and C, Digital Communications, Digital Signal Processing, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
+  """
 
 +++
