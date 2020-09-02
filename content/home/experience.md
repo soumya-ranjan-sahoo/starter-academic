@@ -37,9 +37,9 @@ date_format = "Jan 2006"
   location = "Saarbrücken, DE"
   date_start = "2018-04-01"
   date_end = "2019-03-01"
-  description = """ Supervised by Prof. Dietrich Klakow. Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. Responsibilities: 
-     * Data collection and cleaning through web crawling and multi-sentence alignment for multilingual NLP experiments. 
-     * Worked on developing the web-based application of the linguistic experiment to assist in user studies.
+  description = """ Supervised by Prof. Dietrich Klakow. Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. Responsibilities:
+   * Data collection and cleaning through web crawling and multi-sentence alignment for multilingual NLP experiments. 
+   * Worked on developing the web-based application of the linguistic experiment to assist in user studies.
   """
   
 [[experience]]
@@ -50,8 +50,8 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2017-07-01"
   description = """ Worked as part of the Engineering Services Communication Products group. Responsibilities:
-    * Development and maintenance of the flagship Session Border Controller (SBC) for a reputed US client. 
-    * Develop core functionalities of the system using the knowledge of SIP (Session Initiation Protocol) and VoIP (Voice over IP).
+   * Development and maintenance of the flagship Session Border Controller (SBC) for a reputed US client. 
+   * Develop core functionalities of the system using the knowledge of SIP (Session Initiation Protocol) and VoIP (Voice over IP).
   """
 
 [[experience]]
