@@ -26,7 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence. 
    * Grade: 1.4 / 1.0 (German scale)
-   * Relevant courses: Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning, Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction, Seminar: Machine Learning 
+   * Core courses: *Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning 
+   * Advanced courses: *Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction
+   * Seminars: *Machine Learning 
    """
 
 [[experience]]
@@ -38,7 +40,8 @@ date_format = "Jan 2006"
   date_end = "2015-07-01"
   description = """Undergraduate student of electronics engineering.
    * Grade: 8.8 / 10
-   * Relevant courses: Signals and Systems, Digital Electronic and Integrated Circuits, Microprocessor and Microcontrollers, Control System, Data Structures and C, Digital Communications, Digital Signal Processing, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
+   * Core courses: *Signals and Systems, Digital Electronic and Integrated Circuits, Analog circuits,  Control System,  Digital Communications, Analog Communications, Digital Signal Processing, 
+   * Elective courses: *Microprocessor and Microcontrollers, Data Structures and C, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems
   """
 
 +++
