@@ -33,12 +33,38 @@ date_format = "Jan 2006"
    * Seminars: 
      * Machine Learning 
    """
+[[experience]]
+  title = "Graduate Assistant"
+  company = "SFB1102, Saarland University"
+  company_url = "http://www.sfb1102.uni-saarland.de/"
+  location = "Saarbrücken, DE"
+  date_start = "2018-04-01"
+  date_end = "2019-03-01"
+  description = """ Worked as a part of the project on Mutual Intelligibility and Surprisal in Slavic Intercomprehension. 
+  * Responsibilities: 
+     * Data collection and cleaning through web crawling and multi-sentence alignment for multilingual NLP experiments. 
+     * Worked on developing the web-based application of the linguistic experiment to assist in user studies.
+  * Supervision: Prof. Dietrich Klakow
+  """
+  
+[[experience]]
+  title = "Systems Engineer"
+  company = "Infosys Ltd."
+  company_url = "https://www.infosys.com/"
+  location = "Bengaluru, IN"
+  date_start = "2015-09-01"
+  date_end = "2017-07-01"
+  description = """ Worked as part of the Engineering Services Communication Products group. 
+  * Responsibilities:
+    * Development and maintenance of the flagship Session Border Controller (SBC) for a reputed US client. 
+    * Develop core functionalities of the system using the knowledge of SIP (Session Initiation Protocol) and VoIP (Voice over IP).
+  """
 
 [[experience]]
   title = "B.Tech. in Electronics and Communication Engineering"
   company = "Heritage Institute of Technology"
-  company_url = ""
-  location = "Kolkata"
+  company_url = "https://www.heritageit.edu/"
+  location = "Kolkata, IN"
   date_start = "2011-08-01"
   date_end = "2015-07-01"
   description = """Undergraduate student of electronics engineering.
