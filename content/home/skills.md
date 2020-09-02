@@ -21,9 +21,10 @@ subtitle = ""
   description = "80%"
   
  [[feature]]
-  icon = "cogs"
+  #icon = "cogs"
+  icon = "head-side-virus"
   icon_pack = "fas"
-  name = "Machine Learning"
+  name = "AI/ML"
   description = "85%"  
   
 [[feature]]
