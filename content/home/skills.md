@@ -30,7 +30,7 @@ subtitle = ""
   icon = "balance-scale"
   icon_pack = "fas"
   name = "Fair/Interpretable/Robust AI"
-  description = "Some experience in related coursework, projects and research"
+  description = "Experience in related coursework, projects and research"
   
 [[feature]]
   icon = "language"
