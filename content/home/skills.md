@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
-  name = "Fair/Interpretable/Robust AI"
+  name = "Fair/Explainable/Robust AI"
   description = "Experience in related coursework, projects and research"
   
 [[feature]]
