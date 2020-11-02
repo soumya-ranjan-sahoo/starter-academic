@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I am a Masters student in Computer Science, currently studying at Saarland University in the city of Saarbrücken in Germany. I am interested in research topics that broadly encompass machine learning and its applications in the social context. I am particularly interested in the aspects of fairness, interpretability and privacy of the applications of such systems.
+Hi there! I am a Masters student of Computer Science, currently studying at Saarland University in the city of Saarbrücken in Germany. I am also a research assistant and thesis student at the Max Planck Institute for Software Systems. I am interested in research topics that broadly encompass machine learning and its applications in the social context. I am particularly interested in the aspects of fairness, interpretability, robustness and privacy of the applications of such systems in social domains, natural language processing, vision, etc.
 
 I am currently looking for available positions for pursuing a PhD in order to work on challenging and interesting problems in my topics of interest.
