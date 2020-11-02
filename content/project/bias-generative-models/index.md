@@ -42,5 +42,5 @@ slides: ""
 The project was carried out while I was a research assistant at the Max Planck Institute for Software Systems. The project explored the new direction of looking for potential bias in generative models. Models like variational autoencoders and GANs are becoming quite popular and also seeing deployment. The project aims to see if such models can exhibit any notion of bias. In particular, we explore variational autoenccoders and how the data that is generated or reconstructed by such models can be biased to certain demographics. 
 The bias is attempted to be formally defined. The project also involves initial exploration for methods to de-bias such systems, e.g. using additional labels to supervise the training process of the generative models.
 <p>
-***This project was done in collaboration with Preethi Lahoti, Junaid Ali, Till Speicher and Krishna Gummadi.***
+**This project was done in collaboration with Preethi Lahoti, Junaid Ali, Till Speicher and Krishna Gummadi.**
 </p>
