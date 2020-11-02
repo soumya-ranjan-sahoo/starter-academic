@@ -23,13 +23,13 @@ subtitle = ""
  [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "AI/ML"
+  name = "ML/AI"
   description = "Extensive experience through relevant coursework, projects and research work"
   
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
-  name = "Fair/Explainable/Robust AI"
+  name = "Fair/Explainable/Robust ML"
   description = "Experience in related coursework, projects and research"
   
 [[feature]]
