@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-11-02T17:32:41+01:00
 
 authors: [Ayan Majumdar]
-tags: ["Deep Learning", "Causality", "Fairness"]
+tags: ["Deep Learning", "Generative Models", "Causality", "Fairness"]
 
 # Is this a featured talk? (true/false)
 featured: false
