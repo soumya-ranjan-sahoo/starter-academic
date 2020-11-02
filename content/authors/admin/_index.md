@@ -23,8 +23,9 @@ bio: My research interests broadly include aspects of fairness, interpretability
 interests:
 - Machine Learning
 - Fairness
+- Natural Language Processing
+- Robustness
 - Causality
-- Generative modeling
 - Interpretability
 
 education:
