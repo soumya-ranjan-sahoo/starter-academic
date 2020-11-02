@@ -40,6 +40,7 @@ url_video: ""
 slides: ""
 ---
 Notions of causal fairness for algorithmic decision making systems crucially rely on estimating whether an individual (or a group of individuals) and their counterfactual individual (or groups of individuals) would receive the same decision(s). Central to this estimation is the ability to compute the features of the counterfactual individual, given the features of any individual. Recent works have proposed to apply deep generative models like GANs and VAEs over real-world datasets to compute counterfactual datasets at the level of both individuals and groups. In this paper, we explore the challenges with computing accurate counterfactuals, particularly over heterogenous tabular data that is often used in algorithmic decision making systems. We also investigate the implicit assumptions when applying deep generative models to compute counterfactual datasets.
+
 <p>
 <b>This project was done in collaboration with Preethi Lahoti, Junaid Ali, Till Speicher, Isabel Valera and Krishna Gummadi.</b>
 </p>
