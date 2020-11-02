@@ -3,7 +3,7 @@
 
 title: "Bias in Generative Models"
 summary: "This project explores the case for potential bias in generative models such as variational autoencoders. The project also briefly looks at ways to mitigate such bias."
-authors: [Ayan Majumdar, Preethi Lahoti, Junaid Ali, Till Speicher, Krishna Gummadi]
+authors: [Ayan Majumdar]
 tags: ["Deep Learning", "Generative Models", "Fairness"]
 categories: []
 date: 2020-11-01T10:44:48+01:00
@@ -41,3 +41,4 @@ slides: ""
 ---
 The project was carried out while I was a research assistant at the Max Planck Institute for Software Systems. The project explored the new direction of looking for potential bias in generative models. Models like variational autoencoders and GANs are becoming quite popular and also seeing deployment. The project aims to see if such models can exhibit any notion of bias. In particular, we explore variational autoenccoders and how the data that is generated or reconstructed by such models can be biased to certain demographics. 
 The bias is attempted to be formally defined. The project also involves initial exploration for methods to de-bias such systems, e.g. using additional labels to supervise the training process of the generative models.
+<b>This project was done in collaboration with Preethi Lahoti, Junaid Ali, Till Speicher, Isabel Valera and Krishna Gummadi.</b>
