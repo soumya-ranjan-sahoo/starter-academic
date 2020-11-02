@@ -41,7 +41,7 @@ subtitle = ""
  [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
-  name = "Analytics"
+  name = "Analytics & Visualization"
   description = "Experience in performing basic data analysis on large datasets"
   
   
