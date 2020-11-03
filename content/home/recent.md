@@ -68,5 +68,5 @@ subtitle = ""
 
 - Attendee at the 2020 [International Conference on Machine Learning (ICML)](https://icml.cc/) (July 2020).
 
-- Nominated to attend at Microsoft Research Conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (July 2020).
+- Nominated to attend the Microsoft Research Event [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (July 2020).
 
