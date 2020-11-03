@@ -36,9 +36,18 @@ subtitle = ""
   [[content.filter_button]]
     name = "Robustness"
     tag = "Robustness"
+  
   [[content.filter_button]]
     name = "NLP"
     tag = "NLP"
+  
+  [[content.filter_button]]
+    name = "Vision"
+    tag = "Vision"
+
+[[content.filter_button]]
+    name = "Data Science"
+    tag = "Data Science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

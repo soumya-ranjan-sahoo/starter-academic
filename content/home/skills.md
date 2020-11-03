@@ -49,7 +49,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Coding"
-  description = "2+ years experience in working on industry and academic projects"
+  description = "Extensive experience in working on industrial and academic projects"
   
 # Uncomment to use emoji icons.
 # [[feature]]
