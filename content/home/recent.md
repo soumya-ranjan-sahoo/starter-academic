@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Student Attendee at the 2020 International Conference in Machine Learning (ICML) -- *virtual*.
+- Student Attendee at the 2020 International Conference in Machine Learning (ICML) held *virtually*.
 
-Student Attendee at Microsoft Research Conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (July 2020) -- *virtual*
+- Student Attendee at Microsoft Research Conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (July 2020) held *virtually.*
 
