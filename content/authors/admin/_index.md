@@ -73,8 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I am a Masters student of Computer Science, currently studying at [Saarland University](https://saarland-informatics-campus.de/), Germany. I am also a research assistant and thesis student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/). I worked with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group. My thesis is supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). During my Masters, I have also worked extensively with Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) of the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group at Saarland University. 
+Hi there! I am a Masters student of Computer Science, currently studying at [Saarland University](https://saarland-informatics-campus.de/), Germany. I am also currently a research assistant and thesis student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) working on fairness, explainability and robustness of machine learning systems. 
+
+I am currently working with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group. My thesis is supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). During my Masters, I have also worked extensively with Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) of the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group at Saarland University. 
 
 I am interested in research topics that broadly encompass machine learning and its applications in consequential decision-making, natural language processing and vision. I am also very interested in the aspects of fairness, interpretability, robustness and privacy of the applications of such systems.
 
-I am currently looking for available positions for pursuing a PhD in order to work on challenging and interesting problems in my topics of interest.
+I am currently looking for available PhD positions in order to work on challenging and interesting problems in my topics of interest.
