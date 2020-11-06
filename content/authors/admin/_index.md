@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Masters student of Computer Science, currently studying at [Saarland University](https://saarland-informatics-campus.de/), Germany. I am also currently a thesis student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), working on fairness, explainability and robustness of machine learning systems. 
+I am a Masters student of Computer Science, currently studying at [Saarland University](https://saarland-informatics-campus.de/), Germany. I am also currently a research assistant and thesis student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), working on fairness, explainability and robustness of machine learning systems. 
 
 I am currently working on my thesis with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group. My thesis is supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). During my Masters, I have also worked extensively with Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) of the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group at Saarland University. 
 
