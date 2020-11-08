@@ -51,8 +51,8 @@ date_format = "Jan 2006"
   company = "Infosys Ltd."
   company_url = "https://www.infosys.com/"
   location = "Bengaluru, IN"
-  date_start = "2015-09-01"
-  date_end = "2017-07-01"
+  date_start = "2015-07-01"
+  date_end = "2017-08-01"
   description = """ Worked as part of the Engineering Services Communication Products group. Responsibilities.
    * Development and maintenance of the flagship Session Border Controller (SBC) for a reputed US client. 
    * Develop core functionalities of the system using the knowledge of SIP (Session Initiation Protocol) and VoIP (Voice over IP).
