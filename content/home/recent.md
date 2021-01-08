@@ -65,8 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Attending the Max Planck Intersectional Symposium on Computing and Society (*January 2021*).
 
-- Attendee at the 2020 [International Conference on Machine Learning (ICML)](https://icml.cc/) (July 2020).
+- Attending the 2020 [International Conference on Machine Learning (ICML)](https://icml.cc/) (*July 2020*).
 
-- Nominated to attend the Microsoft Research Event [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (July 2020).
+- Attending  Microsoft Research conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (*July 2020*).
 
